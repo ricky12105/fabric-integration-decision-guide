@@ -14,5 +14,5 @@ Served with GitHub Pages from the `main` branch root.
 
 ## Credit
 
-Built by Farhan Soormo
+Built by Farhan Soormo, based on Gurkamal (GK) Rakhra's blog post, Modernize data integration strategy with Microsoft Fabric when using Snowflake and Databricks.
 

@@ -12,3 +12,7 @@ Open `index.html` in any browser. No build step or dependencies.
 
 Served with GitHub Pages from the `main` branch root.
 
+## Credit
+
+Built by Farhan Soormo
+
